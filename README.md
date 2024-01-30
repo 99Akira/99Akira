@@ -19,7 +19,7 @@
 
 <br>
 
- - 👩‍💻 Software enginner studant
+ - 👩‍💻 Software enginner student
  - 🎓 Analysis and systems development <a href="https://estacio.br/" rel="nofollow">@Estácio</a>
  - 💼 Support and infrastructure analyst.
  - 🚀 Always learning
