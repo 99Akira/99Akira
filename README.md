@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there! 🖐️
 
-<!--
-**99Akira/99Akira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-silva-a750381b7/)
+[![Youtube](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rapha.silva2001@hotmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### My name is Raphael Silva.
+
+<hr>
+
+(PHP | React JS | Javascript | HTML | CSS)
+
+<br>
+
+ - 👩‍💻 Software enginner studant
+ - 🎓 Analysis and systems development <a href="https://estacio.br/" rel="nofollow">@Estácio</a>
+ - 💼 Support and infrastructure analyst.
+ - 🚀 Always learning
+
+ <br>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99Akira&hide_progress=true)
