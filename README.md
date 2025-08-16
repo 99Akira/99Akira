@@ -11,7 +11,7 @@
 
 <hr>
 
-(PHP | React JS | Javascript | HTML | CSS)
+(Cybersec Analyst)
 
 <img align="right" alt="Code Girl image" src="https://github.com/99Akira/99Akira/blob/main/codeboy.jpg" width="300px" style="max-width: 100%;">
 
